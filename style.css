@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flexible
+{
+    display: flex;
+}
+.half_width
+{
+    width: 50%;
+    margin: 80px 50px 10px 100px;
+    text-align: justify;
+}
+.half_width img
+{
+    width: 80%;
+    margin-left: 50px;
+}
+
+#mission
+{
+    font-size: 2em;
+    border-left: 5px solid rgb(212, 23, 23);
+    padding-left: 10px;
+}
+
+#color
+{
+    color: orange;
+}
+.link
+{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 12px 10px 12px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 40px;
+   
+    
+}
