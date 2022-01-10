@@ -6,7 +6,7 @@ body
 .flexible
 {
     display: flex;
-    margin-bottom: 100px;
+ 
 }
 .half_width
 {
@@ -25,6 +25,7 @@ body
     font-size: 2em;
     border-left: 5px solid rgb(212, 23, 23);
     padding-left: 10px;
+    
 }
 
 #color
@@ -39,6 +40,7 @@ body
     border-radius: 5px;
     color: white;
     margin-bottom: 40px;
+
    
     
 }
@@ -85,4 +87,80 @@ body
     padding:30px 20px 30px 20px;
     border-radius: 10px;
     margin-left: 20px;
+}
+#develop
+{
+    font-weight: bolder;
+}
+.third_half_width
+{
+    width: 40%;
+  margin: 10px 20px 10px 40px;
+    text-align: justify;
+}
+.third_half_width img
+{
+    width: 80%;
+    height: 80%;
+    padding-left: 80px;
+
+}
+.third_half_width p
+{
+    margin-right: 20px;
+   
+}
+#third_2ndhalf
+{
+    margin-top: 60px;
+    margin-left: 0;
+}
+.left_banner
+{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size:250px;
+    background-position:left;
+
+}
+.fourth_half_width
+{
+    width: 40%;
+  margin: 10px 20px 10px 40px;
+    text-align: justify;
+}
+.fourth_half_width img
+{
+    width: 80%;
+    height: 80%;
+    padding-left: 130px;
+}
+    
+#fourth_1sthalf
+{
+   margin-left: 110px;
+   margin-top: 30px;
+}
+.right_banner
+{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:right;
+}
+p
+{
+    margin-bottom: 30px;
+}
+footer
+{
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+footer p
+{
+    color: whitesmoke;
 }
