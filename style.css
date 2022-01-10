@@ -164,3 +164,32 @@ footer p
 {
     color: whitesmoke;
 }
+.last
+{
+    width: 50%;
+    padding:10px 30px 10px 40px;
+    text-align: center;
+}
+.last img
+{
+    width: 60%;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.last p
+{
+    width: 50%;
+    text-align: center;
+    margin-left: 200px;
+    text-align: justify;
+}
+#lasth1
+{
+    background-color:skyblue;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 25px;
+}
