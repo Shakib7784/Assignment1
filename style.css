@@ -6,6 +6,7 @@ body
 .flexible
 {
     display: flex;
+    margin-bottom: 100px;
 }
 .half_width
 {
@@ -40,4 +41,48 @@ body
     margin-bottom: 40px;
    
     
+}
+#mission2022
+{
+    text-align: center; 
+    font-size: 40px;
+     font-weight:bolder;
+     margin-bottom:0px;
+     margin-top: 0px;
+}
+.one_third_width
+{
+    width: 33%;
+    margin: 80px;
+    text-align: justify;
+    margin-top: 50px;
+
+}
+
+.one_third_width img
+{
+    width:50%;
+}
+#first
+{
+    background-color: rgb(138, 85, 138);
+    padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    margin-right:2px;
+}
+#second
+{
+    background-color: powderblue;
+    padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    margin-right:2px;
+    margin-left: 20px;
+
+}
+#third
+{
+    background-color: violet;
+    padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    margin-left: 20px;
 }
